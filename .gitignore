@@ -11,6 +11,8 @@ env/
 
 # Output files
 meter_mapping_output*.csv
+sample_output*.csv
+test_output*.csv
 
 # IDE
 .vscode/settings.json
