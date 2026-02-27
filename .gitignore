@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Output files
+meter_mapping_output*.csv
+
+# IDE
+.vscode/settings.json
+*.idea/
+
+# OS
+.DS_Store
+Thumbs.db
