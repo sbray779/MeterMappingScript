@@ -9,10 +9,9 @@ build/
 venv/
 env/
 
-# Output files
-meter_mapping_output*.csv
-sample_output*.csv
-test_output*.csv
+# Data files (source data and outputs — never commit)
+*.csv
+*.json
 
 # IDE
 .vscode/settings.json
